@@ -1,0 +1,3086 @@
+ [
+        {
+            "regencies_id": "1101",
+            "city_id": "01",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN SIMEULUE"
+        },
+        {
+            "regencies_id": "1102",
+            "city_id": "02",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH SINGKIL"
+        },
+        {
+            "regencies_id": "1103",
+            "city_id": "03",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH SELATAN"
+        },
+        {
+            "regencies_id": "1104",
+            "city_id": "04",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH TENGGARA"
+        },
+        {
+            "regencies_id": "1105",
+            "city_id": "05",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH TIMUR"
+        },
+        {
+            "regencies_id": "1106",
+            "city_id": "06",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH TENGAH"
+        },
+        {
+            "regencies_id": "1107",
+            "city_id": "07",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH BARAT"
+        },
+        {
+            "regencies_id": "1108",
+            "city_id": "08",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH BESAR"
+        },
+        {
+            "regencies_id": "1109",
+            "city_id": "09",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN PIDIE"
+        },
+        {
+            "regencies_id": "1110",
+            "city_id": "10",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN BIREUEN"
+        },
+        {
+            "regencies_id": "1111",
+            "city_id": "11",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH UTARA"
+        },
+        {
+            "regencies_id": "1112",
+            "city_id": "12",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH BARAT DAYA"
+        },
+        {
+            "regencies_id": "1113",
+            "city_id": "13",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN GAYO LUES"
+        },
+        {
+            "regencies_id": "1114",
+            "city_id": "14",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH TAMIANG"
+        },
+        {
+            "regencies_id": "1115",
+            "city_id": "15",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN NAGAN RAYA"
+        },
+        {
+            "regencies_id": "1116",
+            "city_id": "16",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN ACEH JAYA"
+        },
+        {
+            "regencies_id": "1117",
+            "city_id": "17",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN BENER MERIAH"
+        },
+        {
+            "regencies_id": "1118",
+            "city_id": "18",
+            "provinces_id": "11",
+            "regencies_name": "KABUPATEN PIDIE JAYA"
+        },
+        {
+            "regencies_id": "1171",
+            "city_id": "71",
+            "provinces_id": "11",
+            "regencies_name": "KOTA BANDA ACEH"
+        },
+        {
+            "regencies_id": "1172",
+            "city_id": "72",
+            "provinces_id": "11",
+            "regencies_name": "KOTA SABANG"
+        },
+        {
+            "regencies_id": "1173",
+            "city_id": "73",
+            "provinces_id": "11",
+            "regencies_name": "KOTA LANGSA"
+        },
+        {
+            "regencies_id": "1174",
+            "city_id": "74",
+            "provinces_id": "11",
+            "regencies_name": "KOTA LHOKSEUMAWE"
+        },
+        {
+            "regencies_id": "1175",
+            "city_id": "75",
+            "provinces_id": "11",
+            "regencies_name": "KOTA SUBULUSSALAM"
+        },
+        {
+            "regencies_id": "1201",
+            "city_id": "01",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN NIAS"
+        },
+        {
+            "regencies_id": "1202",
+            "city_id": "02",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN MANDAILING NATAL"
+        },
+        {
+            "regencies_id": "1203",
+            "city_id": "03",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN TAPANULI SELATAN"
+        },
+        {
+            "regencies_id": "1204",
+            "city_id": "04",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN TAPANULI TENGAH"
+        },
+        {
+            "regencies_id": "1205",
+            "city_id": "05",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN TAPANULI UTARA"
+        },
+        {
+            "regencies_id": "1206",
+            "city_id": "06",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN TOBA SAMOSIR"
+        },
+        {
+            "regencies_id": "1207",
+            "city_id": "07",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN LABUHAN BATU"
+        },
+        {
+            "regencies_id": "1208",
+            "city_id": "08",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN ASAHAN"
+        },
+        {
+            "regencies_id": "1209",
+            "city_id": "09",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN SIMALUNGUN"
+        },
+        {
+            "regencies_id": "1210",
+            "city_id": "10",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN DAIRI"
+        },
+        {
+            "regencies_id": "1211",
+            "city_id": "11",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN KARO"
+        },
+        {
+            "regencies_id": "1212",
+            "city_id": "12",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN DELI SERDANG"
+        },
+        {
+            "regencies_id": "1213",
+            "city_id": "13",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN LANGKAT"
+        },
+        {
+            "regencies_id": "1214",
+            "city_id": "14",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN NIAS SELATAN"
+        },
+        {
+            "regencies_id": "1215",
+            "city_id": "15",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN HUMBANG HASUNDUTAN"
+        },
+        {
+            "regencies_id": "1216",
+            "city_id": "16",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN PAKPAK BHARAT"
+        },
+        {
+            "regencies_id": "1217",
+            "city_id": "17",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN SAMOSIR"
+        },
+        {
+            "regencies_id": "1218",
+            "city_id": "18",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN SERDANG BEDAGAI"
+        },
+        {
+            "regencies_id": "1219",
+            "city_id": "19",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN BATU BARA"
+        },
+        {
+            "regencies_id": "1220",
+            "city_id": "20",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN PADANG LAWAS UTARA"
+        },
+        {
+            "regencies_id": "1221",
+            "city_id": "21",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN PADANG LAWAS"
+        },
+        {
+            "regencies_id": "1222",
+            "city_id": "22",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN LABUHAN BATU SELATAN"
+        },
+        {
+            "regencies_id": "1223",
+            "city_id": "23",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN LABUHAN BATU UTARA"
+        },
+        {
+            "regencies_id": "1224",
+            "city_id": "24",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN NIAS UTARA"
+        },
+        {
+            "regencies_id": "1225",
+            "city_id": "25",
+            "provinces_id": "12",
+            "regencies_name": "KABUPATEN NIAS BARAT"
+        },
+        {
+            "regencies_id": "1271",
+            "city_id": "71",
+            "provinces_id": "12",
+            "regencies_name": "KOTA SIBOLGA"
+        },
+        {
+            "regencies_id": "1272",
+            "city_id": "72",
+            "provinces_id": "12",
+            "regencies_name": "KOTA TANJUNG BALAI"
+        },
+        {
+            "regencies_id": "1273",
+            "city_id": "73",
+            "provinces_id": "12",
+            "regencies_name": "KOTA PEMATANG SIANTAR"
+        },
+        {
+            "regencies_id": "1274",
+            "city_id": "74",
+            "provinces_id": "12",
+            "regencies_name": "KOTA TEBING TINGGI"
+        },
+        {
+            "regencies_id": "1275",
+            "city_id": "75",
+            "provinces_id": "12",
+            "regencies_name": "KOTA MEDAN"
+        },
+        {
+            "regencies_id": "1276",
+            "city_id": "76",
+            "provinces_id": "12",
+            "regencies_name": "KOTA BINJAI"
+        },
+        {
+            "regencies_id": "1277",
+            "city_id": "77",
+            "provinces_id": "12",
+            "regencies_name": "KOTA PADANGSIDIMPUAN"
+        },
+        {
+            "regencies_id": "1278",
+            "city_id": "78",
+            "provinces_id": "12",
+            "regencies_name": "KOTA GUNUNGSITOLI"
+        },
+        {
+            "regencies_id": "1301",
+            "city_id": "01",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN KEPULAUAN MENTAWAI"
+        },
+        {
+            "regencies_id": "1302",
+            "city_id": "02",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN PESISIR SELATAN"
+        },
+        {
+            "regencies_id": "1303",
+            "city_id": "03",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN SOLOK"
+        },
+        {
+            "regencies_id": "1304",
+            "city_id": "04",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN SIJUNJUNG"
+        },
+        {
+            "regencies_id": "1305",
+            "city_id": "05",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN TANAH DATAR"
+        },
+        {
+            "regencies_id": "1306",
+            "city_id": "06",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN PADANG PARIAMAN"
+        },
+        {
+            "regencies_id": "1307",
+            "city_id": "07",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN AGAM"
+        },
+        {
+            "regencies_id": "1308",
+            "city_id": "08",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN LIMA PULUH KOTA"
+        },
+        {
+            "regencies_id": "1309",
+            "city_id": "09",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN PASAMAN"
+        },
+        {
+            "regencies_id": "1310",
+            "city_id": "10",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN SOLOK SELATAN"
+        },
+        {
+            "regencies_id": "1311",
+            "city_id": "11",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN DHARMASRAYA"
+        },
+        {
+            "regencies_id": "1312",
+            "city_id": "12",
+            "provinces_id": "13",
+            "regencies_name": "KABUPATEN PASAMAN BARAT"
+        },
+        {
+            "regencies_id": "1371",
+            "city_id": "71",
+            "provinces_id": "13",
+            "regencies_name": "KOTA PADANG"
+        },
+        {
+            "regencies_id": "1372",
+            "city_id": "72",
+            "provinces_id": "13",
+            "regencies_name": "KOTA SOLOK"
+        },
+        {
+            "regencies_id": "1373",
+            "city_id": "73",
+            "provinces_id": "13",
+            "regencies_name": "KOTA SAWAH LUNTO"
+        },
+        {
+            "regencies_id": "1374",
+            "city_id": "74",
+            "provinces_id": "13",
+            "regencies_name": "KOTA PADANG PANJANG"
+        },
+        {
+            "regencies_id": "1375",
+            "city_id": "75",
+            "provinces_id": "13",
+            "regencies_name": "KOTA BUKITTINGGI"
+        },
+        {
+            "regencies_id": "1376",
+            "city_id": "76",
+            "provinces_id": "13",
+            "regencies_name": "KOTA PAYAKUMBUH"
+        },
+        {
+            "regencies_id": "1377",
+            "city_id": "77",
+            "provinces_id": "13",
+            "regencies_name": "KOTA PARIAMAN"
+        },
+        {
+            "regencies_id": "1401",
+            "city_id": "01",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN KUANTAN SINGINGI"
+        },
+        {
+            "regencies_id": "1402",
+            "city_id": "02",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN INDRAGIRI HULU"
+        },
+        {
+            "regencies_id": "1403",
+            "city_id": "03",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN INDRAGIRI HILIR"
+        },
+        {
+            "regencies_id": "1404",
+            "city_id": "04",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN PELALAWAN"
+        },
+        {
+            "regencies_id": "1405",
+            "city_id": "05",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN S I A K"
+        },
+        {
+            "regencies_id": "1406",
+            "city_id": "06",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN KAMPAR"
+        },
+        {
+            "regencies_id": "1407",
+            "city_id": "07",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN ROKAN HULU"
+        },
+        {
+            "regencies_id": "1408",
+            "city_id": "08",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN BENGKALIS"
+        },
+        {
+            "regencies_id": "1409",
+            "city_id": "09",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN ROKAN HILIR"
+        },
+        {
+            "regencies_id": "1410",
+            "city_id": "10",
+            "provinces_id": "14",
+            "regencies_name": "KABUPATEN KEPULAUAN MERANTI"
+        },
+        {
+            "regencies_id": "1471",
+            "city_id": "71",
+            "provinces_id": "14",
+            "regencies_name": "KOTA PEKANBARU"
+        },
+        {
+            "regencies_id": "1473",
+            "city_id": "73",
+            "provinces_id": "14",
+            "regencies_name": "KOTA D U M A I"
+        },
+        {
+            "regencies_id": "1501",
+            "city_id": "01",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN KERINCI"
+        },
+        {
+            "regencies_id": "1502",
+            "city_id": "02",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN MERANGIN"
+        },
+        {
+            "regencies_id": "1503",
+            "city_id": "03",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN SAROLANGUN"
+        },
+        {
+            "regencies_id": "1504",
+            "city_id": "04",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN BATANG HARI"
+        },
+        {
+            "regencies_id": "1505",
+            "city_id": "05",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN MUARO JAMBI"
+        },
+        {
+            "regencies_id": "1506",
+            "city_id": "06",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN TANJUNG JABUNG TIMUR"
+        },
+        {
+            "regencies_id": "1507",
+            "city_id": "07",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN TANJUNG JABUNG BARAT"
+        },
+        {
+            "regencies_id": "1508",
+            "city_id": "08",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN TEBO"
+        },
+        {
+            "regencies_id": "1509",
+            "city_id": "09",
+            "provinces_id": "15",
+            "regencies_name": "KABUPATEN BUNGO"
+        },
+        {
+            "regencies_id": "1571",
+            "city_id": "71",
+            "provinces_id": "15",
+            "regencies_name": "KOTA JAMBI"
+        },
+        {
+            "regencies_id": "1572",
+            "city_id": "72",
+            "provinces_id": "15",
+            "regencies_name": "KOTA SUNGAI PENUH"
+        },
+        {
+            "regencies_id": "1601",
+            "city_id": "01",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN OGAN KOMERING ULU"
+        },
+        {
+            "regencies_id": "1602",
+            "city_id": "02",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN OGAN KOMERING ILIR"
+        },
+        {
+            "regencies_id": "1603",
+            "city_id": "03",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN MUARA ENIM"
+        },
+        {
+            "regencies_id": "1604",
+            "city_id": "04",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN LAHAT"
+        },
+        {
+            "regencies_id": "1605",
+            "city_id": "05",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN MUSI RAWAS"
+        },
+        {
+            "regencies_id": "1606",
+            "city_id": "06",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN MUSI BANYUASIN"
+        },
+        {
+            "regencies_id": "1607",
+            "city_id": "07",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN BANYU ASIN"
+        },
+        {
+            "regencies_id": "1608",
+            "city_id": "08",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN OGAN KOMERING ULU SELATAN"
+        },
+        {
+            "regencies_id": "1609",
+            "city_id": "09",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN OGAN KOMERING ULU TIMUR"
+        },
+        {
+            "regencies_id": "1610",
+            "city_id": "10",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN OGAN ILIR"
+        },
+        {
+            "regencies_id": "1611",
+            "city_id": "11",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN EMPAT LAWANG"
+        },
+        {
+            "regencies_id": "1612",
+            "city_id": "12",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN PENUKAL ABAB LEMATANG ILIR"
+        },
+        {
+            "regencies_id": "1613",
+            "city_id": "13",
+            "provinces_id": "16",
+            "regencies_name": "KABUPATEN MUSI RAWAS UTARA"
+        },
+        {
+            "regencies_id": "1671",
+            "city_id": "71",
+            "provinces_id": "16",
+            "regencies_name": "KOTA PALEMBANG"
+        },
+        {
+            "regencies_id": "1672",
+            "city_id": "72",
+            "provinces_id": "16",
+            "regencies_name": "KOTA PRABUMULIH"
+        },
+        {
+            "regencies_id": "1673",
+            "city_id": "73",
+            "provinces_id": "16",
+            "regencies_name": "KOTA PAGAR ALAM"
+        },
+        {
+            "regencies_id": "1674",
+            "city_id": "74",
+            "provinces_id": "16",
+            "regencies_name": "KOTA LUBUKLINGGAU"
+        },
+        {
+            "regencies_id": "1701",
+            "city_id": "01",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN BENGKULU SELATAN"
+        },
+        {
+            "regencies_id": "1702",
+            "city_id": "02",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN REJANG LEBONG"
+        },
+        {
+            "regencies_id": "1703",
+            "city_id": "03",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN BENGKULU UTARA"
+        },
+        {
+            "regencies_id": "1704",
+            "city_id": "04",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN KAUR"
+        },
+        {
+            "regencies_id": "1705",
+            "city_id": "05",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN SELUMA"
+        },
+        {
+            "regencies_id": "1706",
+            "city_id": "06",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN MUKOMUKO"
+        },
+        {
+            "regencies_id": "1707",
+            "city_id": "07",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN LEBONG"
+        },
+        {
+            "regencies_id": "1708",
+            "city_id": "08",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN KEPAHIANG"
+        },
+        {
+            "regencies_id": "1709",
+            "city_id": "09",
+            "provinces_id": "17",
+            "regencies_name": "KABUPATEN BENGKULU TENGAH"
+        },
+        {
+            "regencies_id": "1771",
+            "city_id": "71",
+            "provinces_id": "17",
+            "regencies_name": "KOTA BENGKULU"
+        },
+        {
+            "regencies_id": "1801",
+            "city_id": "01",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN LAMPUNG BARAT"
+        },
+        {
+            "regencies_id": "1802",
+            "city_id": "02",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN TANGGAMUS"
+        },
+        {
+            "regencies_id": "1803",
+            "city_id": "03",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN LAMPUNG SELATAN"
+        },
+        {
+            "regencies_id": "1804",
+            "city_id": "04",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN LAMPUNG TIMUR"
+        },
+        {
+            "regencies_id": "1805",
+            "city_id": "05",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN LAMPUNG TENGAH"
+        },
+        {
+            "regencies_id": "1806",
+            "city_id": "06",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN LAMPUNG UTARA"
+        },
+        {
+            "regencies_id": "1807",
+            "city_id": "07",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN WAY KANAN"
+        },
+        {
+            "regencies_id": "1808",
+            "city_id": "08",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN TULANGBAWANG"
+        },
+        {
+            "regencies_id": "1809",
+            "city_id": "09",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN PESAWARAN"
+        },
+        {
+            "regencies_id": "1810",
+            "city_id": "10",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN PRINGSEWU"
+        },
+        {
+            "regencies_id": "1811",
+            "city_id": "11",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN MESUJI"
+        },
+        {
+            "regencies_id": "1812",
+            "city_id": "12",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN TULANG BAWANG BARAT"
+        },
+        {
+            "regencies_id": "1813",
+            "city_id": "13",
+            "provinces_id": "18",
+            "regencies_name": "KABUPATEN PESISIR BARAT"
+        },
+        {
+            "regencies_id": "1871",
+            "city_id": "71",
+            "provinces_id": "18",
+            "regencies_name": "KOTA BANDAR LAMPUNG"
+        },
+        {
+            "regencies_id": "1872",
+            "city_id": "72",
+            "provinces_id": "18",
+            "regencies_name": "KOTA METRO"
+        },
+        {
+            "regencies_id": "1901",
+            "city_id": "01",
+            "provinces_id": "19",
+            "regencies_name": "KABUPATEN BANGKA"
+        },
+        {
+            "regencies_id": "1902",
+            "city_id": "02",
+            "provinces_id": "19",
+            "regencies_name": "KABUPATEN BELITUNG"
+        },
+        {
+            "regencies_id": "1903",
+            "city_id": "03",
+            "provinces_id": "19",
+            "regencies_name": "KABUPATEN BANGKA BARAT"
+        },
+        {
+            "regencies_id": "1904",
+            "city_id": "04",
+            "provinces_id": "19",
+            "regencies_name": "KABUPATEN BANGKA TENGAH"
+        },
+        {
+            "regencies_id": "1905",
+            "city_id": "05",
+            "provinces_id": "19",
+            "regencies_name": "KABUPATEN BANGKA SELATAN"
+        },
+        {
+            "regencies_id": "1906",
+            "city_id": "06",
+            "provinces_id": "19",
+            "regencies_name": "KABUPATEN BELITUNG TIMUR"
+        },
+        {
+            "regencies_id": "1971",
+            "city_id": "71",
+            "provinces_id": "19",
+            "regencies_name": "KOTA PANGKAL PINANG"
+        },
+        {
+            "regencies_id": "2101",
+            "city_id": "01",
+            "provinces_id": "21",
+            "regencies_name": "KABUPATEN KARIMUN"
+        },
+        {
+            "regencies_id": "2102",
+            "city_id": "02",
+            "provinces_id": "21",
+            "regencies_name": "KABUPATEN BINTAN"
+        },
+        {
+            "regencies_id": "2103",
+            "city_id": "03",
+            "provinces_id": "21",
+            "regencies_name": "KABUPATEN NATUNA"
+        },
+        {
+            "regencies_id": "2104",
+            "city_id": "04",
+            "provinces_id": "21",
+            "regencies_name": "KABUPATEN LINGGA"
+        },
+        {
+            "regencies_id": "2105",
+            "city_id": "05",
+            "provinces_id": "21",
+            "regencies_name": "KABUPATEN KEPULAUAN ANAMBAS"
+        },
+        {
+            "regencies_id": "2171",
+            "city_id": "71",
+            "provinces_id": "21",
+            "regencies_name": "KOTA B A T A M"
+        },
+        {
+            "regencies_id": "2172",
+            "city_id": "72",
+            "provinces_id": "21",
+            "regencies_name": "KOTA TANJUNG PINANG"
+        },
+        {
+            "regencies_id": "3101",
+            "city_id": "01",
+            "provinces_id": "31",
+            "regencies_name": "KABUPATEN KEPULAUAN SERIBU"
+        },
+        {
+            "regencies_id": "3171",
+            "city_id": "71",
+            "provinces_id": "31",
+            "regencies_name": "KOTA JAKARTA SELATAN"
+        },
+        {
+            "regencies_id": "3172",
+            "city_id": "72",
+            "provinces_id": "31",
+            "regencies_name": "KOTA JAKARTA TIMUR"
+        },
+        {
+            "regencies_id": "3173",
+            "city_id": "73",
+            "provinces_id": "31",
+            "regencies_name": "KOTA JAKARTA PUSAT"
+        },
+        {
+            "regencies_id": "3174",
+            "city_id": "74",
+            "provinces_id": "31",
+            "regencies_name": "KOTA JAKARTA BARAT"
+        },
+        {
+            "regencies_id": "3175",
+            "city_id": "75",
+            "provinces_id": "31",
+            "regencies_name": "KOTA JAKARTA UTARA"
+        },
+        {
+            "regencies_id": "3201",
+            "city_id": "01",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN BOGOR"
+        },
+        {
+            "regencies_id": "3202",
+            "city_id": "02",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN SUKABUMI"
+        },
+        {
+            "regencies_id": "3203",
+            "city_id": "03",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN CIANJUR"
+        },
+        {
+            "regencies_id": "3204",
+            "city_id": "04",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN BANDUNG"
+        },
+        {
+            "regencies_id": "3205",
+            "city_id": "05",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN GARUT"
+        },
+        {
+            "regencies_id": "3206",
+            "city_id": "06",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN TASIKMALAYA"
+        },
+        {
+            "regencies_id": "3207",
+            "city_id": "07",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN CIAMIS"
+        },
+        {
+            "regencies_id": "3208",
+            "city_id": "08",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN KUNINGAN"
+        },
+        {
+            "regencies_id": "3209",
+            "city_id": "09",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN CIREBON"
+        },
+        {
+            "regencies_id": "3210",
+            "city_id": "10",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN MAJALENGKA"
+        },
+        {
+            "regencies_id": "3211",
+            "city_id": "11",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN SUMEDANG"
+        },
+        {
+            "regencies_id": "3212",
+            "city_id": "12",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN INDRAMAYU"
+        },
+        {
+            "regencies_id": "3213",
+            "city_id": "13",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN SUBANG"
+        },
+        {
+            "regencies_id": "3214",
+            "city_id": "14",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN PURWAKARTA"
+        },
+        {
+            "regencies_id": "3215",
+            "city_id": "15",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN KARAWANG"
+        },
+        {
+            "regencies_id": "3216",
+            "city_id": "16",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN BEKASI"
+        },
+        {
+            "regencies_id": "3217",
+            "city_id": "17",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN BANDUNG BARAT"
+        },
+        {
+            "regencies_id": "3218",
+            "city_id": "18",
+            "provinces_id": "32",
+            "regencies_name": "KABUPATEN PANGANDARAN"
+        },
+        {
+            "regencies_id": "3271",
+            "city_id": "71",
+            "provinces_id": "32",
+            "regencies_name": "KOTA BOGOR"
+        },
+        {
+            "regencies_id": "3272",
+            "city_id": "72",
+            "provinces_id": "32",
+            "regencies_name": "KOTA SUKABUMI"
+        },
+        {
+            "regencies_id": "3273",
+            "city_id": "73",
+            "provinces_id": "32",
+            "regencies_name": "KOTA BANDUNG"
+        },
+        {
+            "regencies_id": "3274",
+            "city_id": "74",
+            "provinces_id": "32",
+            "regencies_name": "KOTA CIREBON"
+        },
+        {
+            "regencies_id": "3275",
+            "city_id": "75",
+            "provinces_id": "32",
+            "regencies_name": "KOTA BEKASI"
+        },
+        {
+            "regencies_id": "3276",
+            "city_id": "76",
+            "provinces_id": "32",
+            "regencies_name": "KOTA DEPOK"
+        },
+        {
+            "regencies_id": "3277",
+            "city_id": "77",
+            "provinces_id": "32",
+            "regencies_name": "KOTA CIMAHI"
+        },
+        {
+            "regencies_id": "3278",
+            "city_id": "78",
+            "provinces_id": "32",
+            "regencies_name": "KOTA TASIKMALAYA"
+        },
+        {
+            "regencies_id": "3279",
+            "city_id": "79",
+            "provinces_id": "32",
+            "regencies_name": "KOTA BANJAR"
+        },
+        {
+            "regencies_id": "3301",
+            "city_id": "01",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN CILACAP"
+        },
+        {
+            "regencies_id": "3302",
+            "city_id": "02",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN BANYUMAS"
+        },
+        {
+            "regencies_id": "3303",
+            "city_id": "03",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN PURBALINGGA"
+        },
+        {
+            "regencies_id": "3304",
+            "city_id": "04",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN BANJARNEGARA"
+        },
+        {
+            "regencies_id": "3305",
+            "city_id": "05",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN KEBUMEN"
+        },
+        {
+            "regencies_id": "3306",
+            "city_id": "06",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN PURWOREJO"
+        },
+        {
+            "regencies_id": "3307",
+            "city_id": "07",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN WONOSOBO"
+        },
+        {
+            "regencies_id": "3308",
+            "city_id": "08",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN MAGELANG"
+        },
+        {
+            "regencies_id": "3309",
+            "city_id": "09",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN BOYOLALI"
+        },
+        {
+            "regencies_id": "3310",
+            "city_id": "10",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN KLATEN"
+        },
+        {
+            "regencies_id": "3311",
+            "city_id": "11",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN SUKOHARJO"
+        },
+        {
+            "regencies_id": "3312",
+            "city_id": "12",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN WONOGIRI"
+        },
+        {
+            "regencies_id": "3313",
+            "city_id": "13",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN KARANGANYAR"
+        },
+        {
+            "regencies_id": "3314",
+            "city_id": "14",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN SRAGEN"
+        },
+        {
+            "regencies_id": "3315",
+            "city_id": "15",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN GROBOGAN"
+        },
+        {
+            "regencies_id": "3316",
+            "city_id": "16",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN BLORA"
+        },
+        {
+            "regencies_id": "3317",
+            "city_id": "17",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN REMBANG"
+        },
+        {
+            "regencies_id": "3318",
+            "city_id": "18",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN PATI"
+        },
+        {
+            "regencies_id": "3319",
+            "city_id": "19",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN KUDUS"
+        },
+        {
+            "regencies_id": "3320",
+            "city_id": "20",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN JEPARA"
+        },
+        {
+            "regencies_id": "3321",
+            "city_id": "21",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN DEMAK"
+        },
+        {
+            "regencies_id": "3322",
+            "city_id": "22",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN SEMARANG"
+        },
+        {
+            "regencies_id": "3323",
+            "city_id": "23",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN TEMANGGUNG"
+        },
+        {
+            "regencies_id": "3324",
+            "city_id": "24",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN KENDAL"
+        },
+        {
+            "regencies_id": "3325",
+            "city_id": "25",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN BATANG"
+        },
+        {
+            "regencies_id": "3326",
+            "city_id": "26",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN PEKALONGAN"
+        },
+        {
+            "regencies_id": "3327",
+            "city_id": "27",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN PEMALANG"
+        },
+        {
+            "regencies_id": "3328",
+            "city_id": "28",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN TEGAL"
+        },
+        {
+            "regencies_id": "3329",
+            "city_id": "29",
+            "provinces_id": "33",
+            "regencies_name": "KABUPATEN BREBES"
+        },
+        {
+            "regencies_id": "3371",
+            "city_id": "71",
+            "provinces_id": "33",
+            "regencies_name": "KOTA MAGELANG"
+        },
+        {
+            "regencies_id": "3372",
+            "city_id": "72",
+            "provinces_id": "33",
+            "regencies_name": "KOTA SURAKARTA"
+        },
+        {
+            "regencies_id": "3373",
+            "city_id": "73",
+            "provinces_id": "33",
+            "regencies_name": "KOTA SALATIGA"
+        },
+        {
+            "regencies_id": "3374",
+            "city_id": "74",
+            "provinces_id": "33",
+            "regencies_name": "KOTA SEMARANG"
+        },
+        {
+            "regencies_id": "3375",
+            "city_id": "75",
+            "provinces_id": "33",
+            "regencies_name": "KOTA PEKALONGAN"
+        },
+        {
+            "regencies_id": "3376",
+            "city_id": "76",
+            "provinces_id": "33",
+            "regencies_name": "KOTA TEGAL"
+        },
+        {
+            "regencies_id": "3401",
+            "city_id": "01",
+            "provinces_id": "34",
+            "regencies_name": "KABUPATEN KULON PROGO"
+        },
+        {
+            "regencies_id": "3402",
+            "city_id": "02",
+            "provinces_id": "34",
+            "regencies_name": "KABUPATEN BANTUL"
+        },
+        {
+            "regencies_id": "3403",
+            "city_id": "03",
+            "provinces_id": "34",
+            "regencies_name": "KABUPATEN GUNUNG KIDUL"
+        },
+        {
+            "regencies_id": "3404",
+            "city_id": "04",
+            "provinces_id": "34",
+            "regencies_name": "KABUPATEN SLEMAN"
+        },
+        {
+            "regencies_id": "3471",
+            "city_id": "71",
+            "provinces_id": "34",
+            "regencies_name": "KOTA YOGYAKARTA"
+        },
+        {
+            "regencies_id": "3501",
+            "city_id": "01",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN PACITAN"
+        },
+        {
+            "regencies_id": "3502",
+            "city_id": "02",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN PONOROGO"
+        },
+        {
+            "regencies_id": "3503",
+            "city_id": "03",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN TRENGGALEK"
+        },
+        {
+            "regencies_id": "3504",
+            "city_id": "04",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN TULUNGAGUNG"
+        },
+        {
+            "regencies_id": "3505",
+            "city_id": "05",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN BLITAR"
+        },
+        {
+            "regencies_id": "3506",
+            "city_id": "06",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN KEDIRI"
+        },
+        {
+            "regencies_id": "3507",
+            "city_id": "07",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN MALANG"
+        },
+        {
+            "regencies_id": "3508",
+            "city_id": "08",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN LUMAJANG"
+        },
+        {
+            "regencies_id": "3509",
+            "city_id": "09",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN JEMBER"
+        },
+        {
+            "regencies_id": "3510",
+            "city_id": "10",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN BANYUWANGI"
+        },
+        {
+            "regencies_id": "3511",
+            "city_id": "11",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN BONDOWOSO"
+        },
+        {
+            "regencies_id": "3512",
+            "city_id": "12",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN SITUBONDO"
+        },
+        {
+            "regencies_id": "3513",
+            "city_id": "13",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN PROBOLINGGO"
+        },
+        {
+            "regencies_id": "3514",
+            "city_id": "14",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN PASURUAN"
+        },
+        {
+            "regencies_id": "3515",
+            "city_id": "15",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN SIDOARJO"
+        },
+        {
+            "regencies_id": "3516",
+            "city_id": "16",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN MOJOKERTO"
+        },
+        {
+            "regencies_id": "3517",
+            "city_id": "17",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN JOMBANG"
+        },
+        {
+            "regencies_id": "3518",
+            "city_id": "18",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN NGANJUK"
+        },
+        {
+            "regencies_id": "3519",
+            "city_id": "19",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN MADIUN"
+        },
+        {
+            "regencies_id": "3520",
+            "city_id": "20",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN MAGETAN"
+        },
+        {
+            "regencies_id": "3521",
+            "city_id": "21",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN NGAWI"
+        },
+        {
+            "regencies_id": "3522",
+            "city_id": "22",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN BOJONEGORO"
+        },
+        {
+            "regencies_id": "3523",
+            "city_id": "23",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN TUBAN"
+        },
+        {
+            "regencies_id": "3524",
+            "city_id": "24",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN LAMONGAN"
+        },
+        {
+            "regencies_id": "3525",
+            "city_id": "25",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN GRESIK"
+        },
+        {
+            "regencies_id": "3526",
+            "city_id": "26",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN BANGKALAN"
+        },
+        {
+            "regencies_id": "3527",
+            "city_id": "27",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN SAMPANG"
+        },
+        {
+            "regencies_id": "3528",
+            "city_id": "28",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN PAMEKASAN"
+        },
+        {
+            "regencies_id": "3529",
+            "city_id": "29",
+            "provinces_id": "35",
+            "regencies_name": "KABUPATEN SUMENEP"
+        },
+        {
+            "regencies_id": "3571",
+            "city_id": "71",
+            "provinces_id": "35",
+            "regencies_name": "KOTA KEDIRI"
+        },
+        {
+            "regencies_id": "3572",
+            "city_id": "72",
+            "provinces_id": "35",
+            "regencies_name": "KOTA BLITAR"
+        },
+        {
+            "regencies_id": "3573",
+            "city_id": "73",
+            "provinces_id": "35",
+            "regencies_name": "KOTA MALANG"
+        },
+        {
+            "regencies_id": "3574",
+            "city_id": "74",
+            "provinces_id": "35",
+            "regencies_name": "KOTA PROBOLINGGO"
+        },
+        {
+            "regencies_id": "3575",
+            "city_id": "75",
+            "provinces_id": "35",
+            "regencies_name": "KOTA PASURUAN"
+        },
+        {
+            "regencies_id": "3576",
+            "city_id": "76",
+            "provinces_id": "35",
+            "regencies_name": "KOTA MOJOKERTO"
+        },
+        {
+            "regencies_id": "3577",
+            "city_id": "77",
+            "provinces_id": "35",
+            "regencies_name": "KOTA MADIUN"
+        },
+        {
+            "regencies_id": "3578",
+            "city_id": "78",
+            "provinces_id": "35",
+            "regencies_name": "KOTA SURABAYA"
+        },
+        {
+            "regencies_id": "3579",
+            "city_id": "79",
+            "provinces_id": "35",
+            "regencies_name": "KOTA BATU"
+        },
+        {
+            "regencies_id": "3601",
+            "city_id": "01",
+            "provinces_id": "36",
+            "regencies_name": "KABUPATEN PANDEGLANG"
+        },
+        {
+            "regencies_id": "3602",
+            "city_id": "02",
+            "provinces_id": "36",
+            "regencies_name": "KABUPATEN LEBAK"
+        },
+        {
+            "regencies_id": "3603",
+            "city_id": "03",
+            "provinces_id": "36",
+            "regencies_name": "KABUPATEN TANGERANG"
+        },
+        {
+            "regencies_id": "3604",
+            "city_id": "04",
+            "provinces_id": "36",
+            "regencies_name": "KABUPATEN SERANG"
+        },
+        {
+            "regencies_id": "3671",
+            "city_id": "71",
+            "provinces_id": "36",
+            "regencies_name": "KOTA TANGERANG"
+        },
+        {
+            "regencies_id": "3672",
+            "city_id": "72",
+            "provinces_id": "36",
+            "regencies_name": "KOTA CILEGON"
+        },
+        {
+            "regencies_id": "3673",
+            "city_id": "73",
+            "provinces_id": "36",
+            "regencies_name": "KOTA SERANG"
+        },
+        {
+            "regencies_id": "3674",
+            "city_id": "74",
+            "provinces_id": "36",
+            "regencies_name": "KOTA TANGERANG SELATAN"
+        },
+        {
+            "regencies_id": "5101",
+            "city_id": "01",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN JEMBRANA"
+        },
+        {
+            "regencies_id": "5102",
+            "city_id": "02",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN TABANAN"
+        },
+        {
+            "regencies_id": "5103",
+            "city_id": "03",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN BADUNG"
+        },
+        {
+            "regencies_id": "5104",
+            "city_id": "04",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN GIANYAR"
+        },
+        {
+            "regencies_id": "5105",
+            "city_id": "05",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN KLUNGKUNG"
+        },
+        {
+            "regencies_id": "5106",
+            "city_id": "06",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN BANGLI"
+        },
+        {
+            "regencies_id": "5107",
+            "city_id": "07",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN KARANG ASEM"
+        },
+        {
+            "regencies_id": "5108",
+            "city_id": "08",
+            "provinces_id": "51",
+            "regencies_name": "KABUPATEN BULELENG"
+        },
+        {
+            "regencies_id": "5171",
+            "city_id": "71",
+            "provinces_id": "51",
+            "regencies_name": "KOTA DENPASAR"
+        },
+        {
+            "regencies_id": "5201",
+            "city_id": "01",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN LOMBOK BARAT"
+        },
+        {
+            "regencies_id": "5202",
+            "city_id": "02",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN LOMBOK TENGAH"
+        },
+        {
+            "regencies_id": "5203",
+            "city_id": "03",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN LOMBOK TIMUR"
+        },
+        {
+            "regencies_id": "5204",
+            "city_id": "04",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN SUMBAWA"
+        },
+        {
+            "regencies_id": "5205",
+            "city_id": "05",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN DOMPU"
+        },
+        {
+            "regencies_id": "5206",
+            "city_id": "06",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN BIMA"
+        },
+        {
+            "regencies_id": "5207",
+            "city_id": "07",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN SUMBAWA BARAT"
+        },
+        {
+            "regencies_id": "5208",
+            "city_id": "08",
+            "provinces_id": "52",
+            "regencies_name": "KABUPATEN LOMBOK UTARA"
+        },
+        {
+            "regencies_id": "5271",
+            "city_id": "71",
+            "provinces_id": "52",
+            "regencies_name": "KOTA MATARAM"
+        },
+        {
+            "regencies_id": "5272",
+            "city_id": "72",
+            "provinces_id": "52",
+            "regencies_name": "KOTA BIMA"
+        },
+        {
+            "regencies_id": "5301",
+            "city_id": "01",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN SUMBA BARAT"
+        },
+        {
+            "regencies_id": "5302",
+            "city_id": "02",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN SUMBA TIMUR"
+        },
+        {
+            "regencies_id": "5303",
+            "city_id": "03",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN KUPANG"
+        },
+        {
+            "regencies_id": "5304",
+            "city_id": "04",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN TIMOR TENGAH SELATAN"
+        },
+        {
+            "regencies_id": "5305",
+            "city_id": "05",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN TIMOR TENGAH UTARA"
+        },
+        {
+            "regencies_id": "5306",
+            "city_id": "06",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN BELU"
+        },
+        {
+            "regencies_id": "5307",
+            "city_id": "07",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN ALOR"
+        },
+        {
+            "regencies_id": "5308",
+            "city_id": "08",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN LEMBATA"
+        },
+        {
+            "regencies_id": "5309",
+            "city_id": "09",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN FLORES TIMUR"
+        },
+        {
+            "regencies_id": "5310",
+            "city_id": "10",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN SIKKA"
+        },
+        {
+            "regencies_id": "5311",
+            "city_id": "11",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN ENDE"
+        },
+        {
+            "regencies_id": "5312",
+            "city_id": "12",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN NGADA"
+        },
+        {
+            "regencies_id": "5313",
+            "city_id": "13",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN MANGGARAI"
+        },
+        {
+            "regencies_id": "5314",
+            "city_id": "14",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN ROTE NDAO"
+        },
+        {
+            "regencies_id": "5315",
+            "city_id": "15",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN MANGGARAI BARAT"
+        },
+        {
+            "regencies_id": "5316",
+            "city_id": "16",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN SUMBA TENGAH"
+        },
+        {
+            "regencies_id": "5317",
+            "city_id": "17",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN SUMBA BARAT DAYA"
+        },
+        {
+            "regencies_id": "5318",
+            "city_id": "18",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN NAGEKEO"
+        },
+        {
+            "regencies_id": "5319",
+            "city_id": "19",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN MANGGARAI TIMUR"
+        },
+        {
+            "regencies_id": "5320",
+            "city_id": "20",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN SABU RAIJUA"
+        },
+        {
+            "regencies_id": "5321",
+            "city_id": "21",
+            "provinces_id": "53",
+            "regencies_name": "KABUPATEN MALAKA"
+        },
+        {
+            "regencies_id": "5371",
+            "city_id": "71",
+            "provinces_id": "53",
+            "regencies_name": "KOTA KUPANG"
+        },
+        {
+            "regencies_id": "6101",
+            "city_id": "01",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN SAMBAS"
+        },
+        {
+            "regencies_id": "6102",
+            "city_id": "02",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN BENGKAYANG"
+        },
+        {
+            "regencies_id": "6103",
+            "city_id": "03",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN LANDAK"
+        },
+        {
+            "regencies_id": "6104",
+            "city_id": "04",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN MEMPAWAH"
+        },
+        {
+            "regencies_id": "6105",
+            "city_id": "05",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN SANGGAU"
+        },
+        {
+            "regencies_id": "6106",
+            "city_id": "06",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN KETAPANG"
+        },
+        {
+            "regencies_id": "6107",
+            "city_id": "07",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN SINTANG"
+        },
+        {
+            "regencies_id": "6108",
+            "city_id": "08",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN KAPUAS HULU"
+        },
+        {
+            "regencies_id": "6109",
+            "city_id": "09",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN SEKADAU"
+        },
+        {
+            "regencies_id": "6110",
+            "city_id": "10",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN MELAWI"
+        },
+        {
+            "regencies_id": "6111",
+            "city_id": "11",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN KAYONG UTARA"
+        },
+        {
+            "regencies_id": "6112",
+            "city_id": "12",
+            "provinces_id": "61",
+            "regencies_name": "KABUPATEN KUBU RAYA"
+        },
+        {
+            "regencies_id": "6171",
+            "city_id": "71",
+            "provinces_id": "61",
+            "regencies_name": "KOTA PONTIANAK"
+        },
+        {
+            "regencies_id": "6172",
+            "city_id": "72",
+            "provinces_id": "61",
+            "regencies_name": "KOTA SINGKAWANG"
+        },
+        {
+            "regencies_id": "6201",
+            "city_id": "01",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN KOTAWARINGIN BARAT"
+        },
+        {
+            "regencies_id": "6202",
+            "city_id": "02",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN KOTAWARINGIN TIMUR"
+        },
+        {
+            "regencies_id": "6203",
+            "city_id": "03",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN KAPUAS"
+        },
+        {
+            "regencies_id": "6204",
+            "city_id": "04",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN BARITO SELATAN"
+        },
+        {
+            "regencies_id": "6205",
+            "city_id": "05",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN BARITO UTARA"
+        },
+        {
+            "regencies_id": "6206",
+            "city_id": "06",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN SUKAMARA"
+        },
+        {
+            "regencies_id": "6207",
+            "city_id": "07",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN LAMANDAU"
+        },
+        {
+            "regencies_id": "6208",
+            "city_id": "08",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN SERUYAN"
+        },
+        {
+            "regencies_id": "6209",
+            "city_id": "09",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN KATINGAN"
+        },
+        {
+            "regencies_id": "6210",
+            "city_id": "10",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN PULANG PISAU"
+        },
+        {
+            "regencies_id": "6211",
+            "city_id": "11",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN GUNUNG MAS"
+        },
+        {
+            "regencies_id": "6212",
+            "city_id": "12",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN BARITO TIMUR"
+        },
+        {
+            "regencies_id": "6213",
+            "city_id": "13",
+            "provinces_id": "62",
+            "regencies_name": "KABUPATEN MURUNG RAYA"
+        },
+        {
+            "regencies_id": "6271",
+            "city_id": "71",
+            "provinces_id": "62",
+            "regencies_name": "KOTA PALANGKA RAYA"
+        },
+        {
+            "regencies_id": "6301",
+            "city_id": "01",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN TANAH LAUT"
+        },
+        {
+            "regencies_id": "6302",
+            "city_id": "02",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN KOTA BARU"
+        },
+        {
+            "regencies_id": "6303",
+            "city_id": "03",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN BANJAR"
+        },
+        {
+            "regencies_id": "6304",
+            "city_id": "04",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN BARITO KUALA"
+        },
+        {
+            "regencies_id": "6305",
+            "city_id": "05",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN TAPIN"
+        },
+        {
+            "regencies_id": "6306",
+            "city_id": "06",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN HULU SUNGAI SELATAN"
+        },
+        {
+            "regencies_id": "6307",
+            "city_id": "07",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN HULU SUNGAI TENGAH"
+        },
+        {
+            "regencies_id": "6308",
+            "city_id": "08",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN HULU SUNGAI UTARA"
+        },
+        {
+            "regencies_id": "6309",
+            "city_id": "09",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN TABALONG"
+        },
+        {
+            "regencies_id": "6310",
+            "city_id": "10",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN TANAH BUMBU"
+        },
+        {
+            "regencies_id": "6311",
+            "city_id": "11",
+            "provinces_id": "63",
+            "regencies_name": "KABUPATEN BALANGAN"
+        },
+        {
+            "regencies_id": "6371",
+            "city_id": "71",
+            "provinces_id": "63",
+            "regencies_name": "KOTA BANJARMASIN"
+        },
+        {
+            "regencies_id": "6372",
+            "city_id": "72",
+            "provinces_id": "63",
+            "regencies_name": "KOTA BANJAR BARU"
+        },
+        {
+            "regencies_id": "6401",
+            "city_id": "01",
+            "provinces_id": "64",
+            "regencies_name": "KABUPATEN PASER"
+        },
+        {
+            "regencies_id": "6402",
+            "city_id": "02",
+            "provinces_id": "64",
+            "regencies_name": "KABUPATEN KUTAI BARAT"
+        },
+        {
+            "regencies_id": "6403",
+            "city_id": "03",
+            "provinces_id": "64",
+            "regencies_name": "KABUPATEN KUTAI KARTANEGARA"
+        },
+        {
+            "regencies_id": "6404",
+            "city_id": "04",
+            "provinces_id": "64",
+            "regencies_name": "KABUPATEN KUTAI TIMUR"
+        },
+        {
+            "regencies_id": "6405",
+            "city_id": "05",
+            "provinces_id": "64",
+            "regencies_name": "KABUPATEN BERAU"
+        },
+        {
+            "regencies_id": "6409",
+            "city_id": "09",
+            "provinces_id": "64",
+            "regencies_name": "KABUPATEN PENAJAM PASER UTARA"
+        },
+        {
+            "regencies_id": "6411",
+            "city_id": "11",
+            "provinces_id": "64",
+            "regencies_name": "KABUPATEN MAHAKAM HULU"
+        },
+        {
+            "regencies_id": "6471",
+            "city_id": "71",
+            "provinces_id": "64",
+            "regencies_name": "KOTA BALIKPAPAN"
+        },
+        {
+            "regencies_id": "6472",
+            "city_id": "72",
+            "provinces_id": "64",
+            "regencies_name": "KOTA SAMARINDA"
+        },
+        {
+            "regencies_id": "6474",
+            "city_id": "74",
+            "provinces_id": "64",
+            "regencies_name": "KOTA BONTANG"
+        },
+        {
+            "regencies_id": "6501",
+            "city_id": "01",
+            "provinces_id": "65",
+            "regencies_name": "KABUPATEN MALINAU"
+        },
+        {
+            "regencies_id": "6502",
+            "city_id": "02",
+            "provinces_id": "65",
+            "regencies_name": "KABUPATEN BULUNGAN"
+        },
+        {
+            "regencies_id": "6503",
+            "city_id": "03",
+            "provinces_id": "65",
+            "regencies_name": "KABUPATEN TANA TIDUNG"
+        },
+        {
+            "regencies_id": "6504",
+            "city_id": "04",
+            "provinces_id": "65",
+            "regencies_name": "KABUPATEN NUNUKAN"
+        },
+        {
+            "regencies_id": "6571",
+            "city_id": "71",
+            "provinces_id": "65",
+            "regencies_name": "KOTA TARAKAN"
+        },
+        {
+            "regencies_id": "7101",
+            "city_id": "01",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN BOLAANG MONGONDOW"
+        },
+        {
+            "regencies_id": "7102",
+            "city_id": "02",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN MINAHASA"
+        },
+        {
+            "regencies_id": "7103",
+            "city_id": "03",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN KEPULAUAN SANGIHE"
+        },
+        {
+            "regencies_id": "7104",
+            "city_id": "04",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN KEPULAUAN TALAUD"
+        },
+        {
+            "regencies_id": "7105",
+            "city_id": "05",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN MINAHASA SELATAN"
+        },
+        {
+            "regencies_id": "7106",
+            "city_id": "06",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN MINAHASA UTARA"
+        },
+        {
+            "regencies_id": "7107",
+            "city_id": "07",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN BOLAANG MONGONDOW UTARA"
+        },
+        {
+            "regencies_id": "7108",
+            "city_id": "08",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN SIAU TAGULANDANG BIARO"
+        },
+        {
+            "regencies_id": "7109",
+            "city_id": "09",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN MINAHASA TENGGARA"
+        },
+        {
+            "regencies_id": "7110",
+            "city_id": "10",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN BOLAANG MONGONDOW SELATAN"
+        },
+        {
+            "regencies_id": "7111",
+            "city_id": "11",
+            "provinces_id": "71",
+            "regencies_name": "KABUPATEN BOLAANG MONGONDOW TIMUR"
+        },
+        {
+            "regencies_id": "7171",
+            "city_id": "71",
+            "provinces_id": "71",
+            "regencies_name": "KOTA MANADO"
+        },
+        {
+            "regencies_id": "7172",
+            "city_id": "72",
+            "provinces_id": "71",
+            "regencies_name": "KOTA BITUNG"
+        },
+        {
+            "regencies_id": "7173",
+            "city_id": "73",
+            "provinces_id": "71",
+            "regencies_name": "KOTA TOMOHON"
+        },
+        {
+            "regencies_id": "7174",
+            "city_id": "74",
+            "provinces_id": "71",
+            "regencies_name": "KOTA KOTAMOBAGU"
+        },
+        {
+            "regencies_id": "7201",
+            "city_id": "01",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN BANGGAI KEPULAUAN"
+        },
+        {
+            "regencies_id": "7202",
+            "city_id": "02",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN BANGGAI"
+        },
+        {
+            "regencies_id": "7203",
+            "city_id": "03",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN MOROWALI"
+        },
+        {
+            "regencies_id": "7204",
+            "city_id": "04",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN POSO"
+        },
+        {
+            "regencies_id": "7205",
+            "city_id": "05",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN DONGGALA"
+        },
+        {
+            "regencies_id": "7206",
+            "city_id": "06",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN TOLI-TOLI"
+        },
+        {
+            "regencies_id": "7207",
+            "city_id": "07",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN BUOL"
+        },
+        {
+            "regencies_id": "7208",
+            "city_id": "08",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN PARIGI MOUTONG"
+        },
+        {
+            "regencies_id": "7209",
+            "city_id": "09",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN TOJO UNA-UNA"
+        },
+        {
+            "regencies_id": "7210",
+            "city_id": "10",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN SIGI"
+        },
+        {
+            "regencies_id": "7211",
+            "city_id": "11",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN BANGGAI LAUT"
+        },
+        {
+            "regencies_id": "7212",
+            "city_id": "12",
+            "provinces_id": "72",
+            "regencies_name": "KABUPATEN MOROWALI UTARA"
+        },
+        {
+            "regencies_id": "7271",
+            "city_id": "71",
+            "provinces_id": "72",
+            "regencies_name": "KOTA PALU"
+        },
+        {
+            "regencies_id": "7301",
+            "city_id": "01",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN KEPULAUAN SELAYAR"
+        },
+        {
+            "regencies_id": "7302",
+            "city_id": "02",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN BULUKUMBA"
+        },
+        {
+            "regencies_id": "7303",
+            "city_id": "03",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN BANTAENG"
+        },
+        {
+            "regencies_id": "7304",
+            "city_id": "04",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN JENEPONTO"
+        },
+        {
+            "regencies_id": "7305",
+            "city_id": "05",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN TAKALAR"
+        },
+        {
+            "regencies_id": "7306",
+            "city_id": "06",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN GOWA"
+        },
+        {
+            "regencies_id": "7307",
+            "city_id": "07",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN SINJAI"
+        },
+        {
+            "regencies_id": "7308",
+            "city_id": "08",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN MAROS"
+        },
+        {
+            "regencies_id": "7309",
+            "city_id": "09",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN PANGKAJENE DAN KEPULAUAN"
+        },
+        {
+            "regencies_id": "7310",
+            "city_id": "10",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN BARRU"
+        },
+        {
+            "regencies_id": "7311",
+            "city_id": "11",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN BONE"
+        },
+        {
+            "regencies_id": "7312",
+            "city_id": "12",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN SOPPENG"
+        },
+        {
+            "regencies_id": "7313",
+            "city_id": "13",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN WAJO"
+        },
+        {
+            "regencies_id": "7314",
+            "city_id": "14",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN SIDENRENG RAPPANG"
+        },
+        {
+            "regencies_id": "7315",
+            "city_id": "15",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN PINRANG"
+        },
+        {
+            "regencies_id": "7316",
+            "city_id": "16",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN ENREKANG"
+        },
+        {
+            "regencies_id": "7317",
+            "city_id": "17",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN LUWU"
+        },
+        {
+            "regencies_id": "7318",
+            "city_id": "18",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN TANA TORAJA"
+        },
+        {
+            "regencies_id": "7322",
+            "city_id": "22",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN LUWU UTARA"
+        },
+        {
+            "regencies_id": "7325",
+            "city_id": "25",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN LUWU TIMUR"
+        },
+        {
+            "regencies_id": "7326",
+            "city_id": "26",
+            "provinces_id": "73",
+            "regencies_name": "KABUPATEN TORAJA UTARA"
+        },
+        {
+            "regencies_id": "7371",
+            "city_id": "71",
+            "provinces_id": "73",
+            "regencies_name": "KOTA MAKASSAR"
+        },
+        {
+            "regencies_id": "7372",
+            "city_id": "72",
+            "provinces_id": "73",
+            "regencies_name": "KOTA PAREPARE"
+        },
+        {
+            "regencies_id": "7373",
+            "city_id": "73",
+            "provinces_id": "73",
+            "regencies_name": "KOTA PALOPO"
+        },
+        {
+            "regencies_id": "7401",
+            "city_id": "01",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN BUTON"
+        },
+        {
+            "regencies_id": "7402",
+            "city_id": "02",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN MUNA"
+        },
+        {
+            "regencies_id": "7403",
+            "city_id": "03",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN KONAWE"
+        },
+        {
+            "regencies_id": "7404",
+            "city_id": "04",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN KOLAKA"
+        },
+        {
+            "regencies_id": "7405",
+            "city_id": "05",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN KONAWE SELATAN"
+        },
+        {
+            "regencies_id": "7406",
+            "city_id": "06",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN BOMBANA"
+        },
+        {
+            "regencies_id": "7407",
+            "city_id": "07",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN WAKATOBI"
+        },
+        {
+            "regencies_id": "7408",
+            "city_id": "08",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN KOLAKA UTARA"
+        },
+        {
+            "regencies_id": "7409",
+            "city_id": "09",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN BUTON UTARA"
+        },
+        {
+            "regencies_id": "7410",
+            "city_id": "10",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN KONAWE UTARA"
+        },
+        {
+            "regencies_id": "7411",
+            "city_id": "11",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN KOLAKA TIMUR"
+        },
+        {
+            "regencies_id": "7412",
+            "city_id": "12",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN KONAWE KEPULAUAN"
+        },
+        {
+            "regencies_id": "7413",
+            "city_id": "13",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN MUNA BARAT"
+        },
+        {
+            "regencies_id": "7414",
+            "city_id": "14",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN BUTON TENGAH"
+        },
+        {
+            "regencies_id": "7415",
+            "city_id": "15",
+            "provinces_id": "74",
+            "regencies_name": "KABUPATEN BUTON SELATAN"
+        },
+        {
+            "regencies_id": "7471",
+            "city_id": "71",
+            "provinces_id": "74",
+            "regencies_name": "KOTA KENDARI"
+        },
+        {
+            "regencies_id": "7472",
+            "city_id": "72",
+            "provinces_id": "74",
+            "regencies_name": "KOTA BAUBAU"
+        },
+        {
+            "regencies_id": "7501",
+            "city_id": "01",
+            "provinces_id": "75",
+            "regencies_name": "KABUPATEN BOALEMO"
+        },
+        {
+            "regencies_id": "7502",
+            "city_id": "02",
+            "provinces_id": "75",
+            "regencies_name": "KABUPATEN GORONTALO"
+        },
+        {
+            "regencies_id": "7503",
+            "city_id": "03",
+            "provinces_id": "75",
+            "regencies_name": "KABUPATEN POHUWATO"
+        },
+        {
+            "regencies_id": "7504",
+            "city_id": "04",
+            "provinces_id": "75",
+            "regencies_name": "KABUPATEN BONE BOLANGO"
+        },
+        {
+            "regencies_id": "7505",
+            "city_id": "05",
+            "provinces_id": "75",
+            "regencies_name": "KABUPATEN GORONTALO UTARA"
+        },
+        {
+            "regencies_id": "7571",
+            "city_id": "71",
+            "provinces_id": "75",
+            "regencies_name": "KOTA GORONTALO"
+        },
+        {
+            "regencies_id": "7601",
+            "city_id": "01",
+            "provinces_id": "76",
+            "regencies_name": "KABUPATEN MAJENE"
+        },
+        {
+            "regencies_id": "7602",
+            "city_id": "02",
+            "provinces_id": "76",
+            "regencies_name": "KABUPATEN POLEWALI MANDAR"
+        },
+        {
+            "regencies_id": "7603",
+            "city_id": "03",
+            "provinces_id": "76",
+            "regencies_name": "KABUPATEN MAMASA"
+        },
+        {
+            "regencies_id": "7604",
+            "city_id": "04",
+            "provinces_id": "76",
+            "regencies_name": "KABUPATEN MAMUJU"
+        },
+        {
+            "regencies_id": "7605",
+            "city_id": "05",
+            "provinces_id": "76",
+            "regencies_name": "KABUPATEN MAMUJU UTARA"
+        },
+        {
+            "regencies_id": "7606",
+            "city_id": "06",
+            "provinces_id": "76",
+            "regencies_name": "KABUPATEN MAMUJU TENGAH"
+        },
+        {
+            "regencies_id": "8101",
+            "city_id": "01",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN MALUKU TENGGARA BARAT"
+        },
+        {
+            "regencies_id": "8102",
+            "city_id": "02",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN MALUKU TENGGARA"
+        },
+        {
+            "regencies_id": "8103",
+            "city_id": "03",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN MALUKU TENGAH"
+        },
+        {
+            "regencies_id": "8104",
+            "city_id": "04",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN BURU"
+        },
+        {
+            "regencies_id": "8105",
+            "city_id": "05",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN KEPULAUAN ARU"
+        },
+        {
+            "regencies_id": "8106",
+            "city_id": "06",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN SERAM BAGIAN BARAT"
+        },
+        {
+            "regencies_id": "8107",
+            "city_id": "07",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN SERAM BAGIAN TIMUR"
+        },
+        {
+            "regencies_id": "8108",
+            "city_id": "08",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN MALUKU BARAT DAYA"
+        },
+        {
+            "regencies_id": "8109",
+            "city_id": "09",
+            "provinces_id": "81",
+            "regencies_name": "KABUPATEN BURU SELATAN"
+        },
+        {
+            "regencies_id": "8171",
+            "city_id": "71",
+            "provinces_id": "81",
+            "regencies_name": "KOTA AMBON"
+        },
+        {
+            "regencies_id": "8172",
+            "city_id": "72",
+            "provinces_id": "81",
+            "regencies_name": "KOTA TUAL"
+        },
+        {
+            "regencies_id": "8201",
+            "city_id": "01",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN HALMAHERA BARAT"
+        },
+        {
+            "regencies_id": "8202",
+            "city_id": "02",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN HALMAHERA TENGAH"
+        },
+        {
+            "regencies_id": "8203",
+            "city_id": "03",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN KEPULAUAN SULA"
+        },
+        {
+            "regencies_id": "8204",
+            "city_id": "04",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN HALMAHERA SELATAN"
+        },
+        {
+            "regencies_id": "8205",
+            "city_id": "05",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN HALMAHERA UTARA"
+        },
+        {
+            "regencies_id": "8206",
+            "city_id": "06",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN HALMAHERA TIMUR"
+        },
+        {
+            "regencies_id": "8207",
+            "city_id": "07",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN PULAU MOROTAI"
+        },
+        {
+            "regencies_id": "8208",
+            "city_id": "08",
+            "provinces_id": "82",
+            "regencies_name": "KABUPATEN PULAU TALIABU"
+        },
+        {
+            "regencies_id": "8271",
+            "city_id": "71",
+            "provinces_id": "82",
+            "regencies_name": "KOTA TERNATE"
+        },
+        {
+            "regencies_id": "8272",
+            "city_id": "72",
+            "provinces_id": "82",
+            "regencies_name": "KOTA TIDORE KEPULAUAN"
+        },
+        {
+            "regencies_id": "9101",
+            "city_id": "01",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN FAKFAK"
+        },
+        {
+            "regencies_id": "9102",
+            "city_id": "02",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN KAIMANA"
+        },
+        {
+            "regencies_id": "9103",
+            "city_id": "03",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN TELUK WONDAMA"
+        },
+        {
+            "regencies_id": "9104",
+            "city_id": "04",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN TELUK BINTUNI"
+        },
+        {
+            "regencies_id": "9105",
+            "city_id": "05",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN MANOKWARI"
+        },
+        {
+            "regencies_id": "9106",
+            "city_id": "06",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN SORONG SELATAN"
+        },
+        {
+            "regencies_id": "9107",
+            "city_id": "07",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN SORONG"
+        },
+        {
+            "regencies_id": "9108",
+            "city_id": "08",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN RAJA AMPAT"
+        },
+        {
+            "regencies_id": "9109",
+            "city_id": "09",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN TAMBRAUW"
+        },
+        {
+            "regencies_id": "9110",
+            "city_id": "10",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN MAYBRAT"
+        },
+        {
+            "regencies_id": "9111",
+            "city_id": "11",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN MANOKWARI SELATAN"
+        },
+        {
+            "regencies_id": "9112",
+            "city_id": "12",
+            "provinces_id": "91",
+            "regencies_name": "KABUPATEN PEGUNUNGAN ARFAK"
+        },
+        {
+            "regencies_id": "9171",
+            "city_id": "71",
+            "provinces_id": "91",
+            "regencies_name": "KOTA SORONG"
+        },
+        {
+            "regencies_id": "9401",
+            "city_id": "01",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN MERAUKE"
+        },
+        {
+            "regencies_id": "9402",
+            "city_id": "02",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN JAYAWIJAYA"
+        },
+        {
+            "regencies_id": "9403",
+            "city_id": "03",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN JAYAPURA"
+        },
+        {
+            "regencies_id": "9404",
+            "city_id": "04",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN NABIRE"
+        },
+        {
+            "regencies_id": "9408",
+            "city_id": "08",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN KEPULAUAN YAPEN"
+        },
+        {
+            "regencies_id": "9409",
+            "city_id": "09",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN BIAK NUMFOR"
+        },
+        {
+            "regencies_id": "9410",
+            "city_id": "10",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN PANIAI"
+        },
+        {
+            "regencies_id": "9411",
+            "city_id": "11",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN PUNCAK JAYA"
+        },
+        {
+            "regencies_id": "9412",
+            "city_id": "12",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN MIMIKA"
+        },
+        {
+            "regencies_id": "9413",
+            "city_id": "13",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN BOVEN DIGOEL"
+        },
+        {
+            "regencies_id": "9414",
+            "city_id": "14",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN MAPPI"
+        },
+        {
+            "regencies_id": "9415",
+            "city_id": "15",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN ASMAT"
+        },
+        {
+            "regencies_id": "9416",
+            "city_id": "16",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN YAHUKIMO"
+        },
+        {
+            "regencies_id": "9417",
+            "city_id": "17",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN PEGUNUNGAN BINTANG"
+        },
+        {
+            "regencies_id": "9418",
+            "city_id": "18",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN TOLIKARA"
+        },
+        {
+            "regencies_id": "9419",
+            "city_id": "19",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN SARMI"
+        },
+        {
+            "regencies_id": "9420",
+            "city_id": "20",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN KEEROM"
+        },
+        {
+            "regencies_id": "9426",
+            "city_id": "26",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN WAROPEN"
+        },
+        {
+            "regencies_id": "9427",
+            "city_id": "27",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN SUPIORI"
+        },
+        {
+            "regencies_id": "9428",
+            "city_id": "28",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN MAMBERAMO RAYA"
+        },
+        {
+            "regencies_id": "9429",
+            "city_id": "29",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN NDUGA"
+        },
+        {
+            "regencies_id": "9430",
+            "city_id": "30",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN LANNY JAYA"
+        },
+        {
+            "regencies_id": "9431",
+            "city_id": "31",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN MAMBERAMO TENGAH"
+        },
+        {
+            "regencies_id": "9432",
+            "city_id": "32",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN YALIMO"
+        },
+        {
+            "regencies_id": "9433",
+            "city_id": "33",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN PUNCAK"
+        },
+        {
+            "regencies_id": "9434",
+            "city_id": "34",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN DOGIYAI"
+        },
+        {
+            "regencies_id": "9435",
+            "city_id": "35",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN INTAN JAYA"
+        },
+        {
+            "regencies_id": "9436",
+            "city_id": "36",
+            "provinces_id": "94",
+            "regencies_name": "KABUPATEN DEIYAI"
+        },
+        {
+            "regencies_id": "9471",
+            "city_id": "71",
+            "provinces_id": "94",
+            "regencies_name": "KOTA JAYAPURA"
+        }
+    ]
